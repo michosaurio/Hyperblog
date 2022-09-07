@@ -1,0 +1,11 @@
+body{
+    color: deeppink;
+    text-align: center;
+    font-family: 'Arial';
+}
+
+div {
+    border-style: groove;
+    border-radius: 1cm;
+}
+
